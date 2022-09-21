@@ -10,6 +10,7 @@ if(num%i==0){
 }
 }
 if(count==2){
+
 return true;
 }
 return false;
@@ -20,3 +21,4 @@ console.log("prime");
 }else{
 console.log("not prime");
 }
+
